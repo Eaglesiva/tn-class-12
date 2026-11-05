@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_bio_zoology_tm",
+  "class": "12",
+  "subject": "Bio-Zoology",
+  "medium": "Tamil",
+  "official_filename": "12th_Bio-Zoology_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Bio-Zoology_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 57355615,
+  "etag": "6c7410c1a798c5e4d1f0f679f497ab3b",
+  "last_modified": "Thu, 22 Oct 2026 07:26:22 GMT",
+  "sha256": "585ab94f4e1a468b711de6f8005a2e118fecdf663604b22b04199027c9486b32",
+  "expected_page_count": 312,
+  "actual_page_count": 312,
+  "pages_replaced_count": 312,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:36:39Z",
+  "zero_master_pdf_persistence_verified": true
+}
