@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_physics_tm_vol2",
+  "class": "12",
+  "subject": "Physics (Vol II)",
+  "medium": "Tamil",
+  "official_filename": "12th_Physics_Vol-2_Tamil%20Medium_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Physics_Vol-2_Tamil%20Medium_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 63397449,
+  "etag": "66db2b69701f5cb2ac4a7a42b1b76538",
+  "last_modified": "Thu, 22 Oct 2026 07:27:06 GMT",
+  "sha256": "a33236ee34fa39b69559262ae369921da47a279ec497d8e077cd45902784aa9a",
+  "expected_page_count": 312,
+  "actual_page_count": 312,
+  "pages_replaced_count": 312,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:33:31Z",
+  "zero_master_pdf_persistence_verified": true
+}
