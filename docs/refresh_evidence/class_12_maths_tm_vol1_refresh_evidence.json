@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_maths_tm_vol1",
+  "class": "12",
+  "subject": "Mathematics (Vol I)",
+  "medium": "Tamil",
+  "official_filename": "12th_Maths_Vol-1_Tamil%20Medium_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Maths_Vol-1_Tamil%20Medium_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 25066480,
+  "etag": "cb78f9bb8abdc4c1e4dd93a5b96e35da",
+  "last_modified": "Thu, 22 Oct 2026 07:26:57 GMT",
+  "sha256": "310b339a96d47f9636d97759b1465377a653c611472250e5efac26a7ac545586",
+  "expected_page_count": 336,
+  "actual_page_count": 336,
+  "pages_replaced_count": 336,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:32:10Z",
+  "zero_master_pdf_persistence_verified": true
+}
