@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_computer_science_em",
+  "class": "12",
+  "subject": "Computer Science",
+  "medium": "English",
+  "official_filename": "12th_Computer%20Science_EM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Computer%20Science_EM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 10311470,
+  "etag": "06d579453f4e2f1d6d1588ef91384b4e",
+  "last_modified": "Thu, 22 Oct 2026 07:26:40 GMT",
+  "sha256": "fb6f35757f80cee054f50f29343e3c663bbd2b0041485afa775fc7e2da6ca16e",
+  "expected_page_count": 360,
+  "actual_page_count": 360,
+  "pages_replaced_count": 360,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:37:26Z",
+  "zero_master_pdf_persistence_verified": true
+}
