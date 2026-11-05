@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_commerce_tm",
+  "class": "12",
+  "subject": "Commerce",
+  "medium": "Tamil",
+  "official_filename": "12th_Commerce_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Commerce_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 52546705,
+  "etag": "8cd8b6e02ea04c183583a4a2c2352279",
+  "last_modified": "Thu, 22 Oct 2026 07:26:37 GMT",
+  "sha256": "b86806fcc047f2d83923bfc8cd3c1240a0da1c8ad888f57bef917cf0a407b4ad",
+  "expected_page_count": 288,
+  "actual_page_count": 288,
+  "pages_replaced_count": 288,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:37:36Z",
+  "zero_master_pdf_persistence_verified": true
+}
