@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_chemistry_tm_vol2",
+  "class": "12",
+  "subject": "Chemistry (Vol II)",
+  "medium": "Tamil",
+  "official_filename": "12th_Chemistry-Vol-2_Tamil%20Medium_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Chemistry-Vol-2_Tamil%20Medium_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 28435318,
+  "etag": "85d7847c2abb7e31b16129596c99a044",
+  "last_modified": "Thu, 22 Oct 2026 07:26:34 GMT",
+  "sha256": "b4c28ca6b0001731b62060f798d1397e614921c9d1bf21ce5d2dd3302fb01cf7",
+  "expected_page_count": 344,
+  "actual_page_count": 344,
+  "pages_replaced_count": 344,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:34:23Z",
+  "zero_master_pdf_persistence_verified": true
+}
