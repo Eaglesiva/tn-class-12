@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_economics_em",
+  "class": "12",
+  "subject": "Economics",
+  "medium": "English",
+  "official_filename": "12th_Economics_EM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Economics_EM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 33171946,
+  "etag": "e449759ae885a84b6950569b44745081",
+  "last_modified": "Thu, 22 Oct 2026 07:26:41 GMT",
+  "sha256": "c2c964a938f97f7a8658b854f7c95afe757315df4f4e50686e3c17a88f0cbaf6",
+  "expected_page_count": 296,
+  "actual_page_count": 296,
+  "pages_replaced_count": 296,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:38:51Z",
+  "zero_master_pdf_persistence_verified": true
+}
