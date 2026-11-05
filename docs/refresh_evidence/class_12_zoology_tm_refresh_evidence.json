@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_zoology_tm",
+  "class": "12",
+  "subject": "Zoology",
+  "medium": "Tamil",
+  "official_filename": "12th_Zoology_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Zoology_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 58785391,
+  "etag": "e3ae1447e21643b199507e22dc05aac3",
+  "last_modified": "Thu, 22 Oct 2026 07:27:14 GMT",
+  "sha256": "f1c813fd561811d7413d2429a912bda21412495f2fd51fdb33c2b28dac2e6dd7",
+  "expected_page_count": 336,
+  "actual_page_count": 336,
+  "pages_replaced_count": 336,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:35:58Z",
+  "zero_master_pdf_persistence_verified": true
+}
