@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_history_tm",
+  "class": "12",
+  "subject": "History",
+  "medium": "Tamil",
+  "official_filename": "12th_History_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_History_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 67622532,
+  "etag": "cbabbfbf9f2c55edf64bc8b0ab2aae3e",
+  "last_modified": "Thu, 22 Oct 2026 07:26:51 GMT",
+  "sha256": "c5fb6a88a9ef975a0255a291c13117836dd244b2b27a8ae09a0c03766dfc4776",
+  "expected_page_count": 312,
+  "actual_page_count": 312,
+  "pages_replaced_count": 312,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:39:04Z",
+  "zero_master_pdf_persistence_verified": true
+}
