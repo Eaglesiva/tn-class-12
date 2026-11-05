@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_tamil",
+  "class": "12",
+  "subject": "General Tamil",
+  "medium": "Tamil",
+  "official_filename": "12th_Genreal%20Tamil.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Genreal%20Tamil.pdf",
+  "http_status": "GET_200",
+  "content_length": 65303896,
+  "etag": "b19bbe98e6b7e144f6b5d5d73d3597cd",
+  "last_modified": "Thu, 22 Oct 2026 07:26:46 GMT",
+  "sha256": "6813313ab8adf57f8cd1d4cb5c6f47ce288153762a2324b64ad38b0bceb185e7",
+  "expected_page_count": 240,
+  "actual_page_count": 240,
+  "pages_replaced_count": 240,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:31:37Z",
+  "zero_master_pdf_persistence_verified": true
+}
