@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_computer_science_tm",
+  "class": "12",
+  "subject": "Computer Science",
+  "medium": "Tamil",
+  "official_filename": "12th_Computer%20Science_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Computer%20Science_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 10712075,
+  "etag": "e4cf2972fea8bfe5791646d0d1657901",
+  "last_modified": "Thu, 22 Oct 2026 07:26:40 GMT",
+  "sha256": "4bbca6fe77d7e15ce858578775b5a37ac040bbbfa42b89d0118446d707bcff23",
+  "expected_page_count": 360,
+  "actual_page_count": 360,
+  "pages_replaced_count": 360,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:37:14Z",
+  "zero_master_pdf_persistence_verified": true
+}
