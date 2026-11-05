@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_english",
+  "class": "12",
+  "subject": "General English",
+  "medium": "English",
+  "official_filename": "12th_General%20English_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_General%20English_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 59641395,
+  "etag": "6024afdc5904c3fc4c69e4cea5c7c955",
+  "last_modified": "Thu, 22 Oct 2026 07:26:44 GMT",
+  "sha256": "e1872f57492efe0242f8ae475d7f350ec1730468b323be3ee9d7346dd27394e2",
+  "expected_page_count": 248,
+  "actual_page_count": 248,
+  "pages_replaced_count": 248,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:31:57Z",
+  "zero_master_pdf_persistence_verified": true
+}
