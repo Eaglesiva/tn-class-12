@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_maths_tm_vol2",
+  "class": "12",
+  "subject": "Mathematics (Vol II)",
+  "medium": "Tamil",
+  "official_filename": "12th_Maths_Vol-2_Tamil%20Meduim_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Maths_Vol-2_Tamil%20Meduim_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 20907269,
+  "etag": "2ebc0520a4fc24e190a0025d360b4fd4",
+  "last_modified": "Thu, 22 Oct 2026 07:26:58 GMT",
+  "sha256": "92b0c3ac3c4e0c5be45ad68cae65b9083b11321d57a3da897049b20324f4584e",
+  "expected_page_count": 288,
+  "actual_page_count": 288,
+  "pages_replaced_count": 288,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:32:26Z",
+  "zero_master_pdf_persistence_verified": true
+}
