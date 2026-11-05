@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_botany_em",
+  "class": "12",
+  "subject": "Botany",
+  "medium": "English",
+  "official_filename": "12th_Botany_EM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Botany_EM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 136348776,
+  "etag": "a1f2ca0d868d8195c8421fd17f1fd08a",
+  "last_modified": "Thu, 22 Oct 2026 07:26:24 GMT",
+  "sha256": "eac2781e71e8e701d665304701d5e1bead66e8be6839b17b8de2969a72598e74",
+  "expected_page_count": 312,
+  "actual_page_count": 312,
+  "pages_replaced_count": 312,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:35:33Z",
+  "zero_master_pdf_persistence_verified": true
+}
