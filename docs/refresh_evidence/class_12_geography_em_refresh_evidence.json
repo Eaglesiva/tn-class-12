@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_geography_em",
+  "class": "12",
+  "subject": "Geography",
+  "medium": "English",
+  "official_filename": "12th_Geography_EM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Geography_EM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 86386567,
+  "etag": "02886d79142ba286e4dc448eee2ccec4",
+  "last_modified": "Thu, 22 Oct 2026 07:26:47 GMT",
+  "sha256": "9e9f895c40d6ad786ce4ebbcacb48b5fd6f3968af11e635af546a7f80daca9f2",
+  "expected_page_count": 216,
+  "actual_page_count": 216,
+  "pages_replaced_count": 216,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:40:05Z",
+  "zero_master_pdf_persistence_verified": true
+}
