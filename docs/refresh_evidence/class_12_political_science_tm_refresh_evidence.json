@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_political_science_tm",
+  "class": "12",
+  "subject": "Political Science",
+  "medium": "Tamil",
+  "official_filename": "12th_Political%20Science%20TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Political%20Science%20TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 73217892,
+  "etag": "6e0ec914b4c2529bb51c115f85d43319",
+  "last_modified": "Thu, 22 Oct 2026 07:27:08 GMT",
+  "sha256": "39660680667159fa41b5dac892dc50ee982595c53e7d37729d359fa4566f7ad3",
+  "expected_page_count": 360,
+  "actual_page_count": 360,
+  "pages_replaced_count": 360,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:40:25Z",
+  "zero_master_pdf_persistence_verified": true
+}
