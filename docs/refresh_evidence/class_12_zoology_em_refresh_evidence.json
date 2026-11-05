@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_zoology_em",
+  "class": "12",
+  "subject": "Zoology",
+  "medium": "English",
+  "official_filename": "12th_Zoology_EM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Zoology_EM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 59764478,
+  "etag": "d624521329b1e22633f49ec366636e98",
+  "last_modified": "Thu, 22 Oct 2026 07:27:13 GMT",
+  "sha256": "4e0324637482a7308af06d9dfd1c2d8945639e09f010f1a4049b0d5f2be75a1d",
+  "expected_page_count": 280,
+  "actual_page_count": 280,
+  "pages_replaced_count": 280,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:36:21Z",
+  "zero_master_pdf_persistence_verified": true
+}
