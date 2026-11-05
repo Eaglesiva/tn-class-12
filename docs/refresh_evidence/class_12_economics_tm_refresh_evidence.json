@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_economics_tm",
+  "class": "12",
+  "subject": "Economics",
+  "medium": "Tamil",
+  "official_filename": "12th_Economics_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Economics_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 32258434,
+  "etag": "a5ae37dc5a172dd47a59a815b590d306",
+  "last_modified": "Thu, 22 Oct 2026 07:26:42 GMT",
+  "sha256": "481e90f5899f871582bf1620dedd304a9440291f9a65fd653fdf7d9c006b533f",
+  "expected_page_count": 336,
+  "actual_page_count": 336,
+  "pages_replaced_count": 336,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:38:36Z",
+  "zero_master_pdf_persistence_verified": true
+}
