@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_commerce_em",
+  "class": "12",
+  "subject": "Commerce",
+  "medium": "English",
+  "official_filename": "12th_Commerce_EM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Commerce_EM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 48362560,
+  "etag": "70caf62d2dae6dd03ef80227f7328d10",
+  "last_modified": "Thu, 22 Oct 2026 07:26:36 GMT",
+  "sha256": "aefd49700c6205c56cb184c7a7a9e9bc5a9f4ae64369638cee6b25ef343ba1de",
+  "expected_page_count": 288,
+  "actual_page_count": 288,
+  "pages_replaced_count": 288,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:37:53Z",
+  "zero_master_pdf_persistence_verified": true
+}
