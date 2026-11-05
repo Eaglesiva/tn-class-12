@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_botany_tm",
+  "class": "12",
+  "subject": "Botany",
+  "medium": "Tamil",
+  "official_filename": "12th_Botany_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Botany_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 166086271,
+  "etag": "41eafb947d1775f7721dee45c54518b8",
+  "last_modified": "Thu, 22 Oct 2026 07:26:27 GMT",
+  "sha256": "242756cc9a0afe87f63cb1b760d0f6064ed9ed29dc0efcbf0aa8c81cb2eb3d0e",
+  "expected_page_count": 336,
+  "actual_page_count": 336,
+  "pages_replaced_count": 336,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:34:57Z",
+  "zero_master_pdf_persistence_verified": true
+}
