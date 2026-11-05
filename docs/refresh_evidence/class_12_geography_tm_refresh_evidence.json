@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_geography_tm",
+  "class": "12",
+  "subject": "Geography",
+  "medium": "Tamil",
+  "official_filename": "12th_Geography_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Geography_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 91880079,
+  "etag": "443c0ba1b0f5d13dae82301a2b5fbf0b",
+  "last_modified": "Thu, 22 Oct 2026 07:26:47 GMT",
+  "sha256": "8f3b525620d97040255487cf8fcde850502846cee65c38248b70a3a00852d30d",
+  "expected_page_count": 232,
+  "actual_page_count": 232,
+  "pages_replaced_count": 232,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:39:40Z",
+  "zero_master_pdf_persistence_verified": true
+}
