@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_bio_zoology_em",
+  "class": "12",
+  "subject": "Bio-Zoology",
+  "medium": "English",
+  "official_filename": "12th_Bio-Zoology_EM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Bio-Zoology_EM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 59029161,
+  "etag": "60ebef7cfea57aef7455442264478937",
+  "last_modified": "Thu, 22 Oct 2026 07:26:21 GMT",
+  "sha256": "db8d8fa44243480332238e7eb5deb09d405787a3696d3b3749d8d27a5ffe7126",
+  "expected_page_count": 264,
+  "actual_page_count": 264,
+  "pages_replaced_count": 264,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:37:01Z",
+  "zero_master_pdf_persistence_verified": true
+}
