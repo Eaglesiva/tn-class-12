@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_chemistry_em_vol2",
+  "class": "12",
+  "subject": "Chemistry (Vol II)",
+  "medium": "English",
+  "official_filename": "12th_Chemistry-Vol-2_English%20Medium_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Chemistry-Vol-2_English%20Medium_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 24336354,
+  "etag": "70a3c387ad9f89992cd35368bdf88e43",
+  "last_modified": "Thu, 22 Oct 2026 07:26:33 GMT",
+  "sha256": "bbf1b2fda2379a80921efe0271fa79729109e63b96837fc6dc209c054fa6430b",
+  "expected_page_count": 328,
+  "actual_page_count": 328,
+  "pages_replaced_count": 328,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:34:38Z",
+  "zero_master_pdf_persistence_verified": true
+}
