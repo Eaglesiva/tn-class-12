@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_accountancy_tm",
+  "class": "12",
+  "subject": "Accountancy",
+  "medium": "Tamil",
+  "official_filename": "12th_Accountancy_TM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Accountancy_TM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 27455334,
+  "etag": "1fe73a053100fb6fad9c0cbe0b393819",
+  "last_modified": "Thu, 22 Oct 2026 07:26:14 GMT",
+  "sha256": "814d37be7dfb7689350325c8055b389395edcf8e8b885f1b9b7f40ae8ea5d6d1",
+  "expected_page_count": 368,
+  "actual_page_count": 368,
+  "pages_replaced_count": 368,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:38:07Z",
+  "zero_master_pdf_persistence_verified": true
+}
