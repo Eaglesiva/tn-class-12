@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_maths_em_vol2",
+  "class": "12",
+  "subject": "Mathematics (Vol II)",
+  "medium": "English",
+  "official_filename": "12th_Maths_Vol-2_English%20Meduim_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Maths_Vol-2_English%20Meduim_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 20634894,
+  "etag": "88b68e3395030e2e3ccd50e86cd8c7d9",
+  "last_modified": "Thu, 22 Oct 2026 07:26:58 GMT",
+  "sha256": "272488124c57922f33e85f487c8efe11a49ab30162e9ca86221b6f32ccf828e1",
+  "expected_page_count": 272,
+  "actual_page_count": 272,
+  "pages_replaced_count": 272,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:32:51Z",
+  "zero_master_pdf_persistence_verified": true
+}
