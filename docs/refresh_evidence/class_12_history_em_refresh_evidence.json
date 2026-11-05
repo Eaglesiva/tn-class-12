@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_history_em",
+  "class": "12",
+  "subject": "History",
+  "medium": "English",
+  "official_filename": "12th_History_EM_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_History_EM_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 63907348,
+  "etag": "5e955dc044f23988523098e2a4af76bf",
+  "last_modified": "Thu, 22 Oct 2026 07:26:50 GMT",
+  "sha256": "cc4b963081b188b3e5751e1b7cd1ad9660d98d506acd630e4b0f15ca71ac4c19",
+  "expected_page_count": 272,
+  "actual_page_count": 272,
+  "pages_replaced_count": 272,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:39:23Z",
+  "zero_master_pdf_persistence_verified": true
+}
