@@ -1,0 +1,20 @@
+{
+  "book_id": "class_12_maths_em_vol1",
+  "class": "12",
+  "subject": "Mathematics (Vol I)",
+  "medium": "English",
+  "official_filename": "12th_Maths_Vol-1_English%20Meduim_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/12th_Maths_Vol-1_English%20Meduim_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 23840429,
+  "etag": "4d0ce3de3c82799d3017de8412481af8",
+  "last_modified": "Thu, 22 Oct 2026 07:26:56 GMT",
+  "sha256": "040df951b72150b62ab52e3090297d8bf87f2b4a5113b91524ef6c153740aef5",
+  "expected_page_count": 304,
+  "actual_page_count": 304,
+  "pages_replaced_count": 304,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:32:39Z",
+  "zero_master_pdf_persistence_verified": true
+}
