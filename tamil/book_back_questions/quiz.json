@@ -435,5 +435,155 @@
     "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12252/",
     "sourcePage": "இயல் 6, நம்மை அளப்போம், பலவுள் தெரிக, வினா 4 — questions.md பக்கம் 152",
     "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED; ORIGINAL_SCERT_PAGE_IMAGE_COMPARISON_PENDING"
+  },
+  {
+    "id": "12_tam_u7_q1",
+    "question": "‘பலர் துஞ்சவும் தான் துஞ்சான்’ – விழித்திருந்தவரும் அவரைப் பாடியவரும்",
+    "options": [
+      "சோழன் நெடுங்கிள்ளியை, பாணர்",
+      "சோழன் நலங்கிள்ளியை, கோவூர்கிழார்",
+      "கணைக்கால் இரும்பொறையை, கபிலர்",
+      "கரிகாலனை, உருத்திரங்கண்ணனார்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "மக்களின் பாதுகாப்பிற்காக இரவிலும் விழித்திருந்த சோழன் நலங்கிள்ளியைப் புறநானூற்றில் கோவூர்கிழார் பாராட்டிப் பாடியுள்ளார்.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12261/",
+    "sourcePage": "இயல் 7, நம்மை அளப்போம், பலவுள் தெரிக, வினா 1 — questions.md",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED"
+  },
+  {
+    "id": "12_tam_u7_q2",
+    "question": "அதிசய மலரின் புன்னகை உணர்த்துவது",
+    "options": [
+      "நம்பிக்கை",
+      "பெருமிதம்",
+      "புகழ்",
+      "அச்சம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "போரால் அழிக்கப்பட்ட நிலத்திலும் மலர் மலர்ந்து சிரிப்பது, மீண்டெழும் வாழ்வையும் எதிர்கால நம்பிக்கையையும் உணர்த்துகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12261/",
+    "sourcePage": "இயல் 7, நம்மை அளப்போம், பலவுள் தெரிக, வினா 2 — questions.md",
+    "verificationStatus": "REPOSITORY_QUESTION_VARIANT; ANSWER_SUPPORTED_BY_POEM_CONTEXT; BRAINkart_ALTERNATE_WORDING_NOT_USED"
+  },
+  {
+    "id": "12_tam_u7_q3",
+    "question": "முச்சந்தி இலக்கியம் என்பது:\nகூற்று 1: கதை வடிவிலான வடிவம் உடையது.\nகூற்று 2: பெரிய எழுத்துப் புத்தகம் என்று அழைக்கப்படுவது.",
+    "options": [
+      "கூற்று 1 சரி, கூற்று 2 தவறு",
+      "கூற்று 1, 2 சரி",
+      "கூற்று 1, 2 தவறு",
+      "கூற்று 1 தவறு, கூற்று 2 சரி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "முச்சந்தி இலக்கியங்கள் எளிய கதைப்பாடல் வடிவிலும் பெரிய எழுத்துப் புத்தகங்களாகவும் வழங்கப்பட்டன; எனவே இரு கூற்றுகளும் சரி.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12261/",
+    "sourcePage": "இயல் 7, நம்மை அளப்போம், பலவுள் தெரிக, வினா 3 — questions.md",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED"
+  },
+  {
+    "id": "12_tam_u7_q4",
+    "question": "‘உண்டு பிறந்து வளர்ந்த இடந்தனில்’ – இத்தொடரில் பெயரெச்சம்",
+    "options": [
+      "உண்டு",
+      "பிறந்து",
+      "வளர்ந்த",
+      "இடந்தனில்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘உண்டு’, ‘பிறந்து’ ஆகியவை வினையெச்சங்கள். ‘வளர்ந்த’ என்பது ‘இடம்’ என்னும் பெயர்ச்சொல்லைத் தழுவி வருவதால் பெயரெச்சம்.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12261/",
+    "sourcePage": "இயல் 7, நம்மை அளப்போம், பலவுள் தெரிக, வினா 4 — questions.md",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_GRAMMAR; REPOSITORY_QUESTION_MATCHED"
+  },
+  {
+    "id": "12_tam_u7_q5",
+    "question": "‘யானை புக்க புலம்போல’ – இவ்வுவமைக்குப் பொருத்தமான தொடர்",
+    "options": [
+      "தனக்குப் பயன்படும், பிறருக்குப் பயன்படாது",
+      "தனக்கும் பயன்படாது, பிறருக்கும் பயன்படாது",
+      "பிறருக்குப் பயன்படும், தனக்குப் பயன்படாது",
+      "தனக்கும் பயன்படும், பிறருக்கும் பயன்படும்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "முறைதவறி வரி திரட்டும் அரசனின் செயல் யானை புகுந்த வயலைப் போன்றது; அது தனக்கும் பயன்படாது, பிறருக்கும் பயன்படாமல் நாட்டையும் அழிக்கும். BrainKart வழிகாட்டியில் அச்சுப்பிழையாக வேறு விடை தரப்பட்டுள்ளதால், பாடல் வரி ‘தானும் உண்ணான் உலகமும் கெடுமே’ அடிப்படையில் இவ்விடை தேர்வு செய்யப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12261/",
+    "sourcePage": "இயல் 7, நம்மை அளப்போம், பலவுள் தெரிக, வினா 5 — questions.md",
+    "verificationStatus": "BRAINKART_KEY_CONFLICT; TEXTBOOK_POEM_LINE_SUPPORT; REPOSITORY_QUESTION_MATCHED"
+  },
+  {
+    "id": "12_tam_u8_q1",
+    "question": "சிறுபாணாற்றுப்படை காட்டும் பாட்டுடைத்தலைவனின் இன்றைய நிலப்பகுதி",
+    "options": [
+      "உதகமண்டலம்",
+      "விழுப்புரம்",
+      "திண்டிவனம்",
+      "தருமபுரி"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "சிறுபாணாற்றுப்படையின் பாட்டுடைத் தலைவனான நல்லியக்கோடன் ஆண்ட ஓய்மாநாடு இன்றைய திண்டிவனம் மற்றும் அதன் சுற்றுப்பகுதிகளுடன் தொடர்புடையது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12271/",
+    "sourcePage": "இயல் 8, நம்மை அளப்போம், பலவுள் தெரிக, வினா 1 — questions.md",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED"
+  },
+  {
+    "id": "12_tam_u8_q2",
+    "question": "பொருந்தாத ஒன்றைக் கண்டறிக:",
+    "options": [
+      "தனித்தமிழ்த் தந்தை – மு. வரதராசனார்",
+      "ஆராய்ச்சிப் பேரறிஞர் – மயிலை சீனி. வேங்கடசாமி",
+      "தமிழ்த் தென்றல் – திரு.வி.க.",
+      "மொழி ஞாயிறு – தேவநேயப் பாவாணர்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "‘தனித்தமிழ்த் தந்தை’ என்று போற்றப்படுபவர் மறைமலையடிகள். எனவே மு. வரதராசனார் எனக் கூறும் முதல் இணை பொருந்தாதது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12271/",
+    "sourcePage": "இயல் 8, நம்மை அளப்போம், பலவுள் தெரிக, வினா 2 — questions.md",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED"
+  },
+  {
+    "id": "12_tam_u8_q3",
+    "question": "ச. த. சற்குணரின் உரையைக் கேட்டுத் தூண்டப்பெற்ற மயிலை சீனி. வேங்கடசாமி எழுதிய நூல்",
+    "options": [
+      "பௌத்தமும் தமிழும்",
+      "இசுலாமும் தமிழும்",
+      "சமணமும் தமிழும்",
+      "கிறித்தவமும் தமிழும்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "ச. த. சற்குணரின் உரையைக் கேட்டுத் தூண்டப்பெற்று மயிலை சீனி. வேங்கடசாமி எழுதிய நூல் ‘கிறித்தவமும் தமிழும்’.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12271/",
+    "sourcePage": "இயல் 8, நம்மை அளப்போம், பலவுள் தெரிக, வினா 3 — questions.md",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED"
+  },
+  {
+    "id": "12_tam_u8_q4",
+    "question": "‘நான் வெற்றுவெளியில் அலைந்துகொண்டிருக்கிறேன் எனது முகத்தைத் தேடியபடி’ என்று சுகந்தி சுப்பிரமணியன் தேடுவதாகக் குறிப்பிடுவது",
+    "options": [
+      "தமது வீட்டு முகவரியை",
+      "தமது குடும்பத்தை",
+      "தமது அடையாளத்தை",
+      "தமது படைப்புகளை"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘முகம்’ என்பது இங்கு தனிமனிதரின் சுய அடையாளத்தைக் குறிக்கிறது; கவிஞர் தமது அடையாளத்தையே தேடுகிறார்.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12271/",
+    "sourcePage": "இயல் 8, நம்மை அளப்போம், பலவுள் தெரிக, வினா 4 — questions.md",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_POEM_CONTEXT; REPOSITORY_QUESTION_MATCHED"
+  },
+  {
+    "id": "12_tam_u8_q5",
+    "question": "கடையெழு வள்ளல்களின் வரிசையைச் சாராத மன்னர்கள்",
+    "options": [
+      "ஆய் அண்டிரனும் அதிகனும்",
+      "நல்லியக்கோடனும் குமணனும்",
+      "நள்ளியும் ஓரியும்",
+      "பாரியும் காரியும்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கடையெழு வள்ளல்கள் பேகன், பாரி, காரி, ஆய், அதியன், நள்ளி, ஓரி. நல்லியக்கோடனும் குமணனும் அந்த ஏழு வள்ளல்களின் பட்டியலில் இடம்பெறவில்லை.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12271/",
+    "sourcePage": "இயல் 8, நம்மை அளப்போம், பலவுள் தெரிக, வினா 5 — questions.md",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED"
   }
 ]
