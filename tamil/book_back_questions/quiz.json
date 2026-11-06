@@ -1,0 +1,152 @@
+[
+  {
+    "id": "TN12-TAM-U01-Q001",
+    "question": "இலக்கியத்தையும் மொழியையும் ஒருசேரப் பேசுகின்ற இலக்கண நூல்",
+    "options": [
+      "யாப்பருங்கலக்காரிகை",
+      "தண்டியலங்காரம்",
+      "தொல்காப்பியம்",
+      "நன்னூல்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "தொல்காப்பியம் மொழியின் எழுத்து, சொல் ஆகியவற்றோடு செய்யுள் மற்றும் இலக்கிய மரபையும் ஒருசேர விளக்குகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12207/",
+    "sourcePage": "இயல் 1, உரைநடை: தமிழ்மொழியின் நடை அழகியல், பலவுள் தெரிக, வினா 1",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; QUESTION_PRESENT_IN_REPOSITORY; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN12-TAM-U01-Q002",
+    "question": "“மீண்டுமந்தப் பழமைநலம் புதுக்கு தற்கு” கவிஞர் குறிப்பிடும் பழமைநலம்,\n௧) பாண்டியரின் சங்கத்தில் கொலுவிருந்து\n௨) பொதிகையில் தோன்றியது\n௩) வள்ளல்களைத் தந்து",
+    "options": [
+      "௧ மட்டும் சரி",
+      "௧, ௨ இரண்டும் சரி",
+      "௩ மட்டும் சரி",
+      "௧, ௩ இரண்டும் சரி"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "கவிதையில் பாண்டியரின் சங்கத்தில் கொலுவிருந்ததும் வள்ளல்களைத் தந்ததும் குறிப்பிடப்படுகின்றன; பொதிகையில் தோன்றியது என்ற குறிப்பு இந்த வினாவில் சேராது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12207/",
+    "sourcePage": "இயல் 1, செய்யுள்: இளந்தமிழே, பலவுள் தெரிக, வினா 1",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; QUESTION_PRESENT_IN_REPOSITORY; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN12-TAM-U01-Q003",
+    "question": "“மின்னேர் தனியாழி வெங்கதிரொன்று ஏனையது தன்னேர் இலாத தமிழ்!” – இவ்வடிகளில் பயின்று வந்துள்ள தொடைநயம்",
+    "options": [
+      "அடிமோனை, அடிஎதுகை",
+      "சீர்மோனை, சீர்எதுகை",
+      "அடிஎதுகை, சீர்மோனை",
+      "சீர்எதுகை, அடிமோனை"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "“மின்னேர் / தன்னேர்” தொடர் அடிஎதுகையையும், “தன்னேர் / தமிழ்” தொடர் சீர்மோனையையும் காட்டுகின்றன.",
+    "sourceUrl": "https://www.tamilmixereducation.com/12th-tamil-lesson-1-uyirinum-ombappadum-new-book-back-question-answers_22/",
+    "sourcePage": "இயல் 1, பலவுள் தெரிக, தொடைநயம் வினா",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_REFERENCE_MATERIAL; QUESTION_PRESENT_IN_REPOSITORY; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN12-TAM-U01-Q004",
+    "question": "கருத்து 1: இயல்பு வழக்கில், தொடரமைப்பு என்பது எழுவாய், செயப்படுபொருள், பயனிலை என்று வருவதே மரபு.\nகருத்து 2: தொடரமைப்பு, சங்கப் பாடல்கள் பலவற்றில் பிறழ்ந்து வருகிறது.",
+    "options": [
+      "கருத்து 1 சரி",
+      "கருத்து 2 சரி",
+      "இரண்டு கருத்தும் சரி",
+      "கருத்து 1 சரி, 2 தவறு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இயல்பு வழக்கில் எழுவாய்–பயனிலை அமைப்பு மரபாகும்; சங்கப் பாடல்களில் கருத்து மற்றும் ஓசைநயத்திற்கேற்ப தொடரமைப்பு பிறழ்ந்து வருவதும் உண்மை.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12207/",
+    "sourcePage": "இயல் 1, உரைநடை: தமிழ்மொழியின் நடை அழகியல், பலவுள் தெரிக, கருத்து வினா",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_WORDING_VARIANT; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN12-TAM-U01-Q005",
+    "question": "பொருத்துக:\nஅ) தமிழ் அழகியல்\nஆ) நிலவுப்பூ\nஇ) கிடை\nஈ) உய்யும் வழி",
+    "options": [
+      "4, 3, 2, 1",
+      "1, 4, 2, 3",
+      "2, 4, 1, 3",
+      "2, 3, 4, 1"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "தமிழ் அழகியல் – தி.சு. நடராசன் (2); நிலவுப்பூ – சிற்பி பாலசுப்பிரமணியம் (3); கிடை – கி. ராஜநாராயணன் (4); உய்யும் வழி – பரலி சு. நெல்லையப்பர் (1).",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12207/",
+    "sourcePage": "இயல் 1, உரைநடை: தமிழ்மொழியின் நடை அழகியல், பலவுள் தெரிக, பொருத்துக",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; QUESTION_PRESENT_IN_REPOSITORY; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN12-TAM-U02-Q001",
+    "question": "பொருத்துக:\nஅ) குரங்குகள் – 1) கன்றுகளைத் தவிர்த்தன\nஆ) விலங்குகள் – 2) மரங்களிலிருந்து வீழ்ந்தன\nஇ) பறவைகள் – 3) குளிரால் நடுங்கின\nஈ) பசுக்கள் – 4) மேய்ச்சலை மறந்தன",
+    "options": [
+      "1, 3, 4, 2",
+      "3, 4, 2, 1",
+      "3, 2, 1, 4",
+      "2, 1, 3, 4"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பாடப்பகுதி வருணனைப்படி குரங்குகள் குளிரால் நடுங்கின (3), விலங்குகள் மேய்ச்சலை மறந்தன (4), பறவைகள் மரங்களிலிருந்து வீழ்ந்தன (2), பசுக்கள் கன்றுகளைத் தவிர்த்தன (1). இங்கு repository-யின் வரிசைப்படி 3, 4, 2, 1.",
+    "sourceUrl": "https://www.studentsguide360.com/12th-tamil-unit-2-book-back-question-and-answer/",
+    "sourcePage": "இயல் 2, நம்மை அளப்போம், பொருத்துக வினா 1",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_STUDENTSGUIDE360; MATCHING_SEQUENCE_ALIGNED_TO_REPOSITORY_QUESTIONS; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN12-TAM-U02-Q002",
+    "question": "நரம்புகளுக்குள் வீணை மீட்டிக்கொண்டிருக்கிறது என்று அய்யப்ப மாதவன் குறிப்பிடுவது",
+    "options": [
+      "சூரிய ஒளிக்கதிர்",
+      "மழை மேகங்கள்",
+      "மழைத்துளிகள்",
+      "நீர்நிலைகள்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "மழைத்துளிகள் விழும் ஓசையை நரம்புகளுக்குள் வீணை மீட்டுவது போல் கவிஞர் உருவகப்படுத்துகிறார்.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12215/",
+    "sourcePage": "இயல் 2, செய்யுள்: பிறகொரு நாள் கோடை, பலவுள் தெரிக, வினா 1",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; QUESTION_PRESENT_IN_REPOSITORY; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN12-TAM-U02-Q003",
+    "question": "வெள்ளச் சமவெளிகள் அழியக் காரணம்",
+    "options": [
+      "பருவநிலை மாற்றம்",
+      "மணல் அள்ளுதல்",
+      "பாறைகள் இல்லாமை",
+      "நிலத்தடிநீர் உறிஞ்சப்படுதல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "ஆற்றில் அளவுக்கு மீறி மணல் அள்ளப்படுவது வெள்ளச் சமவெளிகளை அழிக்கும் காரணங்களில் ஒன்று எனப் பாடப்பகுதி விளக்குகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12215/",
+    "sourcePage": "இயல் 2, உரைநடை: பெருமழைக்காலம், பலவுள் தெரிக, வினா 1",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; QUESTION_PRESENT_IN_REPOSITORY; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN12-TAM-U02-Q004",
+    "question": "'பொய்யா வானம் புதுப்பெயல் பொழிந்தென' – தடித்த சொல்லின் இலக்கணக் குறிப்பு",
+    "options": [
+      "வினைத்தொகை",
+      "உரிச்சொல் தொடர்",
+      "இடைச்சொல் தொடர்",
+      "ஈறுகெட்ட எதிர்மறைப் பெயரெச்சம்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "'பொய்யாத' என்பதில் இறுதி 'த்' கெட்டு 'பொய்யா வானம்' என வந்ததால் ஈறுகெட்ட எதிர்மறைப் பெயரெச்சம்.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12215/",
+    "sourcePage": "இயல் 2, செய்யுள்: நெடுநல்வாடை, பலவுள் தெரிக, வினா 2",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; QUESTION_PRESENT_IN_REPOSITORY; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN12-TAM-U02-Q005",
+    "question": "உலக நாடுகள் மாற்று ஆற்றலை நோக்கிச் சென்றால் மட்டுமே புவி வெப்பமயமாதலைக் கட்டுப்படுத்த முடியும் – இத்தொடர் உணர்த்துவது",
+    "options": [
+      "கார்பன் அற்ற ஆற்றல் பயன்பாடே தேவையாகிறது",
+      "பசுமைக்குடில் வாயுக்கள் அதிகமாகிறது",
+      "காலநிலை மாறுபடுகிறது",
+      "புவியின் இயக்கம் வேறுபடுகிறது"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "புவி வெப்பமயமாதலைக் கட்டுப்படுத்த கார்பன் அற்ற மாற்று ஆற்றல் பயன்பாட்டின் தேவை வலியுறுத்தப்படுகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12215/",
+    "sourcePage": "இயல் 2, உரைநடை: பெருமழைக்காலம், பலவுள் தெரிக, வினா 2",
+    "verificationStatus": "ANSWER_SUPPORTED_BY_BRAINKART; QUESTION_PRESENT_IN_REPOSITORY; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  }
+]
