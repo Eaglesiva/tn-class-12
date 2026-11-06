@@ -25,9 +25,11 @@
     ],
     "correctOptionIndex": 0,
     "explanation": "போரால் அழிக்கப்பட்ட நிலத்திலும் மலர் மலர்ந்து சிரிப்பது, மீண்டெழும் வாழ்வையும் எதிர்கால நம்பிக்கையையும் உணர்த்துகிறது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12261/",
+    "sourceUrl": "https://www.brainkart.in/article/Poem--Adhisaya-malar_12256/",
     "sourcePage": "இயல் 7, நம்மை அளப்போம், பலவுள் தெரிக, வினா 2 — questions.md",
-    "verificationStatus": "REPOSITORY_QUESTION_VARIANT; ANSWER_SUPPORTED_BY_POEM_CONTEXT; BRAINkart_ALTERNATE_WORDING_NOT_USED"
+    "verificationStatus": "REPOSITORY_QUESTION_VARIANT; ANSWER_SUPPORTED_BY_POEM_CONTEXT; BRAINKART_ALTERNATE_WORDING_NOT_USED",
+    "secondarySourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12261/",
+    "verificationNote": "Repository questions.md-இல் உள்ள வினா/விருப்பங்கள் BrainKart Questions and Answers பக்கத்தில் உள்ள மாற்று வினாவிலிருந்து வேறுபடுகின்றன. Repository வினாவை அப்படியே வைத்துப் பதில் கவிதையின் பொருள் விளக்கத்தின் அடிப்படையில் குறிக்கப்பட்டது."
   },
   {
     "id": "12_tam_u7_q3",

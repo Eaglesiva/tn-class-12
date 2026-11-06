@@ -7,37 +7,37 @@
 ### 1. ‘பலர் துஞ்சவும் தான் துஞ்சான்’ – விழித்திருந்தவரும் அவரைப் பாடியவரும்
 - **விடை:** ஆ) சோழன் நலங்கிள்ளியை, கோவூர்கிழார்
 - **விளக்கம்:** மக்களின் பாதுகாப்பிற்காக இரவிலும் விழித்திருந்த சோழன் நலங்கிள்ளியைப் புறநானூற்றில் கோவூர்கிழார் பாராட்டிப் பாடியுள்ளார்.
-- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12261/) | [Repository questions.md](./questions.md)
+- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12261/) | [Unit question source](./questions.md)
 - **Source reference:** இயல் 7, நம்மை அளப்போம், பலவுள் தெரிக, வினா 1
 - **Verification:** `ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED`
 
 ### 2. அதிசய மலரின் புன்னகை உணர்த்துவது
 - **விடை:** அ) நம்பிக்கை
 - **விளக்கம்:** போரால் அழிக்கப்பட்ட நிலத்திலும் மலர் மலர்ந்து சிரிப்பது, மீண்டெழும் வாழ்வையும் எதிர்கால நம்பிக்கையையும் உணர்த்துகிறது.
-- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12261/) | [Repository questions.md](./questions.md)
+- **Source:** [அதிசய மலர் — BrainKart](https://www.brainkart.in/article/Poem--Adhisaya-malar_12256/) | [Unit question source](./questions.md)
 - **Source reference:** இயல் 7, நம்மை அளப்போம், பலவுள் தெரிக, வினா 2
-- **Verification:** `REPOSITORY_QUESTION_VARIANT; ANSWER_SUPPORTED_BY_POEM_CONTEXT; BRAINkart_ALTERNATE_WORDING_NOT_USED`
+- **Verification:** `REPOSITORY_QUESTION_VARIANT; ANSWER_SUPPORTED_BY_POEM_CONTEXT; BRAINKART_ALTERNATE_WORDING_NOT_USED`
 
 ### 3. முச்சந்தி இலக்கியம் என்பது:  
 கூற்று 1: கதை வடிவிலான வடிவம் உடையது.  
 கூற்று 2: பெரிய எழுத்துப் புத்தகம் என்று அழைக்கப்படுவது.
 - **விடை:** ஆ) கூற்று 1, 2 சரி
 - **விளக்கம்:** முச்சந்தி இலக்கியங்கள் எளிய கதைப்பாடல் வடிவிலும் பெரிய எழுத்துப் புத்தகங்களாகவும் வழங்கப்பட்டன; எனவே இரு கூற்றுகளும் சரி.
-- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12261/) | [Repository questions.md](./questions.md)
+- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12261/) | [Unit question source](./questions.md)
 - **Source reference:** இயல் 7, நம்மை அளப்போம், பலவுள் தெரிக, வினா 3
 - **Verification:** `ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED`
 
 ### 4. ‘உண்டு பிறந்து வளர்ந்த இடந்தனில்’ – இத்தொடரில் பெயரெச்சம்
 - **விடை:** இ) வளர்ந்த
 - **விளக்கம்:** ‘உண்டு’, ‘பிறந்து’ ஆகியவை வினையெச்சங்கள். ‘வளர்ந்த’ என்பது ‘இடம்’ என்னும் பெயர்ச்சொல்லைத் தழுவி வருவதால் பெயரெச்சம்.
-- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12261/) | [Repository questions.md](./questions.md)
+- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12261/) | [Unit question source](./questions.md)
 - **Source reference:** இயல் 7, நம்மை அளப்போம், பலவுள் தெரிக, வினா 4
 - **Verification:** `ANSWER_SUPPORTED_BY_GRAMMAR; REPOSITORY_QUESTION_MATCHED`
 
 ### 5. ‘யானை புக்க புலம்போல’ – இவ்வுவமைக்குப் பொருத்தமான தொடர்
 - **விடை:** ஆ) தனக்கும் பயன்படாது, பிறருக்கும் பயன்படாது
 - **விளக்கம்:** முறைதவறி வரி திரட்டும் அரசனின் செயல் யானை புகுந்த வயலைப் போன்றது; அது தனக்கும் பயன்படாது, பிறருக்கும் பயன்படாமல் நாட்டையும் அழிக்கும். BrainKart வழிகாட்டியில் அச்சுப்பிழையாக வேறு விடை தரப்பட்டுள்ளதால், பாடல் வரி ‘தானும் உண்ணான் உலகமும் கெடுமே’ அடிப்படையில் இவ்விடை தேர்வு செய்யப்பட்டுள்ளது.
-- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12261/) | [Repository questions.md](./questions.md)
+- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12261/) | [Unit question source](./questions.md)
 - **Source reference:** இயல் 7, நம்மை அளப்போம், பலவுள் தெரிக, வினா 5
 - **Verification:** `BRAINKART_KEY_CONFLICT; TEXTBOOK_POEM_LINE_SUPPORT; REPOSITORY_QUESTION_MATCHED`
 
@@ -49,25 +49,25 @@
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 2. **எந்தவொரு பொருளைப் பயன்படுத்தும்போதும் அதற்குப் பின்னால் உள்ள மனிதர்களின் உழைப்பை நாம் சிந்திப்பதில்லை. ஒரு தேநீரைப் பருகும்போது அதற்குப் பின்னால் உள்ள மனித உழைப்பைச் சிந்தித்து உங்கள் கருத்தை எழுதுக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 3. **அறிவுடை வேந்தனின் நெறி குறித்து, பிசிராந்தையார் கூறுவன யாவை?**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 4. **செவியறிவுறூஉ துறையை விளக்குக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 ### சிறுவினா
 
@@ -75,25 +75,25 @@
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 2. **அதிசய மலரின் பூச்செடி எவ்வாறு முளைத்ததாக, தமிழ்நதி கூறுகிறார்?**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 3. **“எங்கிருந்தோ வருகிறது வண்ணத்துப்பூச்சியொன்று பறவைகளும் வரக் கூடும் நாளை” – இடஞ்சுட்டிப் பொருள் விளக்குக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 4. **“யானை புக்க புலம்போலத் தானும் உண்ணான் உலகமும் கெடுமே” – உவமையையும் பொருளையும் பொருத்தி விளக்குக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 ### நெடுவினா
 
@@ -101,17 +101,17 @@
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 2. **சங்ககால வரலாற்றை அறிந்துகொள்ள, புகளூர்க் கல்வெட்டு எவ்வகையில் துணைபுரிகிறது? – விளக்குக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 3. **நிருவாக மேலாண்மை குறித்து வெ. இறையன்பு கூறும் கருத்துகளைத் தொகுத்து எழுதுக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 

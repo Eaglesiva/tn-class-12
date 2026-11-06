@@ -32,7 +32,7 @@
 **ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12261/)  
 **Repository source:** [questions.md](./questions.md)
 
-**Verification:** `REPOSITORY_QUESTION_VARIANT; ANSWER_SUPPORTED_BY_POEM_CONTEXT; BRAINkart_ALTERNATE_WORDING_NOT_USED`
+**Verification:** `REPOSITORY_QUESTION_VARIANT; ANSWER_SUPPORTED_BY_POEM_CONTEXT; BRAINKART_ALTERNATE_WORDING_NOT_USED`
 
 ---
 

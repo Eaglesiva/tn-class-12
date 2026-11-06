@@ -7,35 +7,35 @@
 ### 1. சிறுபாணாற்றுப்படை காட்டும் பாட்டுடைத்தலைவனின் இன்றைய நிலப்பகுதி
 - **விடை:** இ) திண்டிவனம்
 - **விளக்கம்:** சிறுபாணாற்றுப்படையின் பாட்டுடைத் தலைவனான நல்லியக்கோடன் ஆண்ட ஓய்மாநாடு இன்றைய திண்டிவனம் மற்றும் அதன் சுற்றுப்பகுதிகளுடன் தொடர்புடையது.
-- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12271/) | [Repository questions.md](./questions.md)
+- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12271/) | [Unit question source](./questions.md)
 - **Source reference:** இயல் 8, நம்மை அளப்போம், பலவுள் தெரிக, வினா 1
 - **Verification:** `ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED`
 
 ### 2. பொருந்தாத ஒன்றைக் கண்டறிக:
 - **விடை:** அ) தனித்தமிழ்த் தந்தை – மு. வரதராசனார்
 - **விளக்கம்:** ‘தனித்தமிழ்த் தந்தை’ என்று போற்றப்படுபவர் மறைமலையடிகள். எனவே மு. வரதராசனார் எனக் கூறும் முதல் இணை பொருந்தாதது.
-- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12271/) | [Repository questions.md](./questions.md)
+- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12271/) | [Unit question source](./questions.md)
 - **Source reference:** இயல் 8, நம்மை அளப்போம், பலவுள் தெரிக, வினா 2
 - **Verification:** `ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED`
 
 ### 3. ச. த. சற்குணரின் உரையைக் கேட்டுத் தூண்டப்பெற்ற மயிலை சீனி. வேங்கடசாமி எழுதிய நூல்
 - **விடை:** ஈ) கிறித்தவமும் தமிழும்
 - **விளக்கம்:** ச. த. சற்குணரின் உரையைக் கேட்டுத் தூண்டப்பெற்று மயிலை சீனி. வேங்கடசாமி எழுதிய நூல் ‘கிறித்தவமும் தமிழும்’.
-- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12271/) | [Repository questions.md](./questions.md)
+- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12271/) | [Unit question source](./questions.md)
 - **Source reference:** இயல் 8, நம்மை அளப்போம், பலவுள் தெரிக, வினா 3
 - **Verification:** `ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED`
 
 ### 4. ‘நான் வெற்றுவெளியில் அலைந்துகொண்டிருக்கிறேன் எனது முகத்தைத் தேடியபடி’ என்று சுகந்தி சுப்பிரமணியன் தேடுவதாகக் குறிப்பிடுவது
 - **விடை:** இ) தமது அடையாளத்தை
 - **விளக்கம்:** ‘முகம்’ என்பது இங்கு தனிமனிதரின் சுய அடையாளத்தைக் குறிக்கிறது; கவிஞர் தமது அடையாளத்தையே தேடுகிறார்.
-- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12271/) | [Repository questions.md](./questions.md)
+- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12271/) | [Unit question source](./questions.md)
 - **Source reference:** இயல் 8, நம்மை அளப்போம், பலவுள் தெரிக, வினா 4
 - **Verification:** `ANSWER_SUPPORTED_BY_POEM_CONTEXT; REPOSITORY_QUESTION_MATCHED`
 
 ### 5. கடையெழு வள்ளல்களின் வரிசையைச் சாராத மன்னர்கள்
 - **விடை:** ஆ) நல்லியக்கோடனும் குமணனும்
 - **விளக்கம்:** கடையெழு வள்ளல்கள் பேகன், பாரி, காரி, ஆய், அதியன், நள்ளி, ஓரி. நல்லியக்கோடனும் குமணனும் அந்த ஏழு வள்ளல்களின் பட்டியலில் இடம்பெறவில்லை.
-- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12271/) | [Repository questions.md](./questions.md)
+- **Source:** [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_12271/) | [Unit question source](./questions.md)
 - **Source reference:** இயல் 8, நம்மை அளப்போம், பலவுள் தெரிக, வினா 5
 - **Verification:** `ANSWER_SUPPORTED_BY_BRAINKART; REPOSITORY_QUESTION_MATCHED`
 
@@ -47,25 +47,25 @@
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 2. **“விரிபெரு தமிழர் மேன்மை ஓங்கிடச் செய்வ தொன்றே உயிர்ப்பணியாகக் கொண்டோன்” – யார், யாரைப் பற்றி, எதற்காகக் கூறுகிறார்?**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 3. **முகம் முகவரியற்றுப் போனதற்கு சுகந்தி சுப்பிரமணியன் கூறும் காரணத்தை எழுதுக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 4. **இறைமகனாரின் இன்னலைக் கண்டு மக்கள் எவ்விதம் புலம்பினர்?**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 ### சிறுவினா
 
@@ -73,25 +73,25 @@
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 2. **கடையெழு வள்ளல்களையும் அவர்கள் செய்த செயலையும் அட்டவணைப்படுத்துக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 3. **‘ஈசன்மகன் நின்றனர் ஓர் ஏழையென ஓர்மின்’ – இடஞ்சுட்டிப் பொருள் விளக்குக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 4. **கொடை வழங்குதலில் நீங்கள் பின்பற்ற விரும்புவனவற்றை எழுதுக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 ### நெடுவினா
 
@@ -99,17 +99,17 @@
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 2. **எச். ஏ. கிருட்டிணனார் ‘கிறித்தவக் கம்பரே’ என்பதை நும் பாடப்பகுதி வழி நிறுவுக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
 3. **கோடைமழை கதை வாயிலாக விளக்கப்படும் மனித நேயப் பண்புகளை விளக்குக.**
 - **விடைக்குறிப்பு:**
 - **சாதாரண விடை:**
 - **விரிவான விடை:**
-- **Source:** [Repository questions.md](./questions.md)
+- **Source:** [Unit question source](./questions.md)
 
