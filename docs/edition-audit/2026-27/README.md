@@ -24,3 +24,9 @@ See the [Common SCERT Edition Verification Blueprint](https://github.com/Eaglesi
 ## Common master register
 
 [Open Class 12 in the one-click Master Cross-Verification Index](https://github.com/Eaglesiva/tn-schools-project/blob/main/docs/03-edition-register/MASTER_CROSS_VERIFICATION_INDEX.md#class-12)
+
+## Supplementary update evidence
+
+- [All refreshed-book evidence](refresh_evidence/class_12_all_refreshed_evidence.json)
+- [Cloud edition update report](class_12_cloud_edition_update_report.md)
+- [Official update-branch verification report](class12_verification_report_update_branch.md)
